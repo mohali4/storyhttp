@@ -1,0 +1,7 @@
+#container {
+    display:flex;
+    justify-content: center;
+    justify-items: center;
+    flex-flow: column;
+    
+}
